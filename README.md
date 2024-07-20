@@ -1,6 +1,6 @@
 ### Description
 
-This framework is designed to facilitate the implementation of custom machine-learning algorithms with modular components. It allows users to build, train, and evaluate custom models and automate algorithms using a flexible and extensible architecture.
+This framework is designed to facilitate the implementation of custom machine-learning algorithms with modular components. It allows users to build, train, and evaluate custom models and automate algorithms using a flexible and extensible architecture and use directly to call functions.
 
 ### Tech Stack
 
